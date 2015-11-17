@@ -1,0 +1,4 @@
+com\nextgen\app\Application.class
+com\nextgen\app\controller\HelloController.class
+com\nextgen\app\entities\User.class
+com\nextgen\app\config\BeanConfig.class
