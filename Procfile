@@ -1,1 +1,1 @@
-web: java -jar target\gs-spring-boot-0.1.0.jar.jar
+web: java $JAVA_OPTS -Dserver.port=$PORT -jar target/hellospringboot.jar  

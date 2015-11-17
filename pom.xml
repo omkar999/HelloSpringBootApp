@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>org.springframework</groupId>
-	<artifactId>gs-spring-boot</artifactId>
+	<artifactId>hellospringboot</artifactId>
 	<version>0.1.0</version>
 
 	<parent>
@@ -38,6 +38,7 @@
 	</properties>
 
 	<build>
+	<finalName>hellospringboot</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
