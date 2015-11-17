@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* com.nextgen.app.Application
+web: java -jar target\gs-spring-boot-0.1.0.jar.jar
